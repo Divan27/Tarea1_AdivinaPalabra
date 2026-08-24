@@ -1,0 +1,56 @@
+{
+  "partidas": [
+    {
+      "J1": "Melany",
+      "J2": "Dilan",
+      "intentosR1J1": 3,
+      "intentosR2J1": 2,
+      "intentosR3J1": 1,
+      "tiempoJ1": 62,
+      "intentosR1J2": 4,
+      "intentosR2J2": 2,
+      "intentosR3J2": 3,
+      "tiempoJ2": 56,
+      "ganador": "Melany"
+    },
+    {
+      "J1": "a",
+      "J2": "d",
+      "intentosR1J1": 1,
+      "intentosR2J1": null,
+      "intentosR3J1": null,
+      "tiempoJ1": null,
+      "intentosR1J2": null,
+      "intentosR2J2": null,
+      "intentosR3J2": null,
+      "tiempoJ2": null,
+      "ganador": null
+    },
+    {
+      "J1": "Dilan",
+      "J2": "Mau",
+      "intentosR1J1": 1,
+      "intentosR2J1": null,
+      "intentosR3J1": null,
+      "tiempoJ1": null,
+      "intentosR1J2": null,
+      "intentosR2J2": null,
+      "intentosR3J2": null,
+      "tiempoJ2": null,
+      "ganador": null
+    },
+    {
+      "J1": "Dau",
+      "J2": "Dilan",
+      "intentosR1J1": 4,
+      "intentosR2J1": 1,
+      "intentosR3J1": 2,
+      "tiempoJ1": 45,
+      "intentosR1J2": 1,
+      "intentosR2J2": 1,
+      "intentosR3J2": 2,
+      "tiempoJ2": 13,
+      "ganador": "Dilan"
+    }
+  ]
+}
